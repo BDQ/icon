@@ -1,4 +1,6 @@
 # icon
+![an open source icon](https://github.com/BDQ/icon/blob/master/assets/favicon-96x96.png)
+
 An open source icon.
 
 ## Usage
